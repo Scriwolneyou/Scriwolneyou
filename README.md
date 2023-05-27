@@ -21,3 +21,7 @@ _"When nothing else works, read the instructions."_
 
 ## OS
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+
+<hr>
+
+![Stats](https://github-readme-streak-stats.herokuapp.com/?user=scriwolneyou&hide_border=true&card_width=338&theme=transparent)
